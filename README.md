@@ -34,3 +34,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mirza-hamza341&show_icons=true&locale=en" alt="mirza-hamza341" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mirza-hamza341&" alt="mirza-hamza341" /></p>
+
+
+
+
+
+
+
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mirza-hamza341&bg_color=000000&color=05ff16&line=26e89e&point=ff1a1a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
