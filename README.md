@@ -1,5 +1,5 @@
 <h1 align="center">HELLO THERE 👋, IT's Mirza Hamza Nadeem</h1>
-<h3 align="center">Aspiring Developer Discovering Tech</h3>
+<h3 align="center"> An Aspiring Developer Discovering Tech</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirza-hamza341&label=Profile%20views&color=0e75b6&style=flat" alt="mirza-hamza341" /> </p>
 
