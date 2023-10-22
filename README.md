@@ -9,13 +9,11 @@
 
 - 🔭 I’m currently working on **Python**
 
-- 👯 I’m looking to collaborate on **C++ Projects focusing on intermediate concepts**
+- 👯 I’m looking to collaborate on **Python Projects focusing on intermediate concepts**
 
 - 🤝 I’m looking for help with **Nothing right now**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MIRZA-HAMZA341](https://github.com/MIRZA-HAMZA341)
-
-- 💬 Ask me about **C as well as Cpp**
 
 - ⚡ Fun fact **I am a multitasker.**
 
